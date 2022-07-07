@@ -1,4 +1,4 @@
-# buildspace Mint Your Own NFT Collection
+# Mint Your Own NFT Collection
 
 ### **Welcome 👋**
 
